@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+#new1 {
+	max-width: 600px;
+	margin: 10px;
+	padding: 15px;
+	border-left:8px;
+	background-color: #f8fffe;
+	font-weight: bold;
+}
